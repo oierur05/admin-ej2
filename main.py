@@ -7,4 +7,4 @@ num1 = 5
 num2 = 8
 
 # Imprimir la suma de los dos números usando la función
-print("Sum:", numero1, "+", numero2, "=", suma(numero1, numero2))
+print("Sum:", num1, "+", num2, "=", suma(num1, num2))
